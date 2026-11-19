@@ -1,3 +1,3 @@
-we are create or play games on **volta**.
+say hello **_preview_** _version_ to **volta**.
 > [!CAUTION]
-> Volta is work on progress, I will make volta app. official Volta is coming soon....
+> **Volta** is a WIP. I'm making **volta**. This is a **_preview_** _version_. Official **volta** is **coming soon**....?
